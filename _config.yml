@@ -1,0 +1,28 @@
+name: A Great Marriage
+favicon: null
+layout_spectrum: 0.2987599200569093
+typography_spectrum: 0.7464457638561726
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4801728050224483
+  lightness: 0.5546025694347918
+  saturation: 0.4970327033661306
+  rhythmicContrast: 0.5049716313369572
+purpose: []
